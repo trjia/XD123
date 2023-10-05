@@ -4,3 +4,4 @@ print(f'''
 Ketqua chambai
 { chambai() }
 '''.strip())
+123
